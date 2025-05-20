@@ -1,3 +1,4 @@
 {
-  "ULTRA2025": { "ExpireAt": 1746729600, "Reward": {"Cash": 5000, "Rerolls": 10} }
+  "ULTRA2025": { "ExpireAt": 1746729600, "Reward": {"Cash": 5000, "Rerolls": 10} },
+  "NERF_KATANA": { "ExpireAt": 1746729600, "Reward": {"Cash": 2500, "Rerolls": 4} }
 }
